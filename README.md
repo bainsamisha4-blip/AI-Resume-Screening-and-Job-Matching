@@ -40,6 +40,7 @@ NLP-based resume screening and job matching using TF-IDF and Sentence-BERT.
 
 ## Author 
 Amisha Devi
+
 M.Sc. Data Science Student
 GitHub : https://github.com/bainsamisha4-blip
 
