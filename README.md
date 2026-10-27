@@ -18,7 +18,8 @@ This project uses Natural Language Processing (NLP) techniques to explore resume
 
 ## Project Files
 - `AI_Resume_Project.ipynb` — Jupyter Notebook containing the project code and analysis.
-- Dataset files — to be added.
+- Dataset Files : Download the dataset from Kaggle 
+
 
 ## How to Run
 1. Download the notebook and required dataset.
@@ -36,3 +37,11 @@ Download the dataset from Kaggle and place the required CSV file (`posting.csv`)
 ## Project Status
 Academic and portfolio project prototype.# AI-Resume-Screening-and-Job-Matching
 NLP-based resume screening and job matching using TF-IDF and Sentence-BERT.
+
+## Author 
+Amisha Devi
+M.Sc. Data Science Student
+GitHub : https://github.com/bainsamisha4-blip
+
+
+
