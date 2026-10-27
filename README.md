@@ -9,12 +9,13 @@ This project uses Natural Language Processing (NLP) techniques to explore resume
 - Explore semantic similarity using Sentence-BERT.
 - Identify relevant skills and support candidate ranking.
 
-## Technologies Used
-- Python
-- Pandas and NumPy
-- Scikit-learn
-- Sentence-Transformers
-- Jupyter Notebook
+## ## Technologies Used
+
+- **Python** – Core programming language
+- **Pandas & NumPy** – Data handling and numerical operations
+- **Scikit-learn** – TF-IDF vectorization and cosine similarity
+- **Sentence-Transformers** – Semantic similarity using `all-MiniLM-L6-v2`
+- **Jupyter Notebook** – Development and execution environment
 
 ## Project Files
 - `AI_Resume_Project.ipynb` — Jupyter Notebook containing the project code and analysis.
