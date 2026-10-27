@@ -26,6 +26,13 @@ This project uses Natural Language Processing (NLP) techniques to explore resume
 3. Open the notebook in Jupyter Notebook.
 4. Run the cells in order.
 
+## Dataset
+
+This project uses the LinkedIn Job Postings (2023–2024) dataset from Kaggle.
+
+**Dataset Source:** https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
+
+Download the dataset from Kaggle and place the required CSV file (`posting.csv`) in the project folder before running the Jupyter Notebook.
 ## Project Status
 Academic and portfolio project prototype.# AI-Resume-Screening-and-Job-Matching
 NLP-based resume screening and job matching using TF-IDF and Sentence-BERT.
